@@ -1,6 +1,6 @@
 Comparative studies in regulatory genomics at the onset of key evolutionary transitions in animals.
 
-R/UNIX/a liiittle bit of Python (for now)
+R/UNIX/Python + Snakemake
 
 I also like to tinker around with operating systems and video game data and assets.
 
